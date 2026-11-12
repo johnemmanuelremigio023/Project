@@ -1,0 +1,14 @@
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\HotReload\browser-tools-key.public.json
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\HotReload\browser-tools-key.private.json
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.AssemblyInfoInputs.cache
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.AssemblyInfo.cs
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.csproj.CoreCompileInputs.cache
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.RazorAssemblyInfo.cache
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.RazorAssemblyInfo.cs
+C:\Users\John Emmanuel\GitLabActivity\GadgetInventory\obj\Debug\net11.0\GadgetInventory.sourcelink.json
